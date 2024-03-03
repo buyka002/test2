@@ -1,2 +1,3 @@
-Turtle.Move(2000)
+Turtle.Speed=10
+Turtle.Move(200)
 Turtle.Turn(90)
