@@ -1,1 +1,2 @@
+Turtle.Move(2000)
 Turtle.Turn(90)
